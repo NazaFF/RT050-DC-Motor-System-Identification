@@ -144,36 +144,6 @@ The experimental results demonstrate:
 
 ---
 
-## Repository Structure
-
-```
-
-RT050-System-Identification/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── matlab/
-│ └── LAST19HR.m
-│
-├── docs/
-│ └── Presentation.pdf
-│
-├── results/
-│ └── RESULTADOS_FINAIS.txt
-│
-├── images/
-│ ├── calibration.png
-│ ├── sinusoidal_response.png
-│ ├── validation.png
-│ └── ...
-│
-└── figures/
-```
-
----
-
 ## Future Improvements
 
 Possible future developments include:
